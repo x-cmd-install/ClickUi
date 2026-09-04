@@ -1,0 +1,57 @@
+about:
+  description: The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too!
+  license: AGPL-3.0
+  homepage: https://clickui.app
+  head: 2e011e2
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-04T03:46:54Z
+timeline:
+  created: 2025-02-27
+  lastCommit: 2026-09-01
+  lastRelease: ?
+popularity:
+  star: 428
+  watcher: 3
+  fork: 41
+  release: 0
+  contributor: 3
+  pullRequest: 1
+  issue: 2
+language:
+  Python: 188782
+  Batchfile: 6611
+totalLine: 195393
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last360d:
+    since: 2025-09-09
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
