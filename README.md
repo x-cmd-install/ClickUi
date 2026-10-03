@@ -31,7 +31,7 @@ Total: **3,759** lines of code across **9** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 428 · **Forks**: 41 · **Open issues**: 2 · **Contributors**: 3
+- **Stars**: 427 · **Forks**: 41 · **Open issues**: 2 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -41,12 +41,12 @@ Total: **3,759** lines of code across **9** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-03 | 0 | 0 | 0 | 0 | 0 | 5 |
-| 90d | 2026-07-04 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last180d | 2026-04-05 | 0 | 0 | 0 | 0 | 0 | 5 |
-| 360d | 2025-10-07 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last720d | 2024-10-12 | 0 | 2 | 0 | 2 | 0 | 185 |
+| 30d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 5 |
+| 90d | 2026-07-05 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last180d | 2026-04-06 | 0 | 0 | 0 | 0 | 0 | 5 |
+| 360d | 2025-10-08 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last720d | 2024-10-13 | 0 | 2 | 0 | 2 | 0 | 185 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for ClickUi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:51:18Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:38:32Z._
